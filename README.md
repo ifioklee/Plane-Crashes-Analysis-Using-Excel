@@ -59,7 +59,7 @@ Pivot tables (PVT1, PVT2, and PVT3) as seen in the [Proccessed dataset](https://
 - 1972, 1968, 1989, 1967, 1979, 1973 represents the years with highest number of plane crashes recorded.
 
 # Future Work
-## Potential improvements 
+#### Potential improvements 
 - Find a way to work on the "summary" column to find causes of plane crashes from the dataset.
 
 # References and Resources
